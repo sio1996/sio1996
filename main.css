@@ -1,0 +1,25 @@
+p
+{
+	color: salmon;
+	font-size: 20px;
+	text-align: justify;
+}
+
+h1
+{
+	color: darkred;
+	font-size: 70px;
+	text-align: left;
+}
+
+.content 
+{
+background-color: papayawhip;
+}
+
+.bigred article h3
+{
+	color: purple;
+	font-size: 50px;
+	text-align: left;
+}
