@@ -18,6 +18,11 @@ h1
 	text-align: left;
 }
 
+article
+{
+	background-color: papayawhip;
+}
+
 .content 
 {
 background-color: papayawhip;
