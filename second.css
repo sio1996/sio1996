@@ -1,0 +1,87 @@
+#myVideo {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+html {
+    background-color:blanchedalmond;
+}
+
+html p {
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: sans-serif;
+}
+
+a {
+    color: inherit;
+  }
+  
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+header {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        position: relative;
+        height: 100vh;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+
+main {
+    width: 80vw;
+  left: 10%;
+  height: 70 vh;
+  overflow: auto;
+  background: rgba(25, 25, 112, 0.5);
+  color: peachpuff;
+  position: relative;
+  padding: 1rem;
+}
+
+header h1 {
+    font-size: 70px;
+    color: peachpuff;
+}
+
+header h2 {
+    font-size: 30px;
+}
+
+header ul li {
+    font-size: 20px;
+}
+.list-style-type {
+    list-style-type: none;
+}
+
+.text {
+    margin-top: 0;
+    column-count: 3;
+    column-rule: 1px double peachpuff;
+
+    padding: 80px 80px;
+    background-color: blue, 0.5;
+    color: peachpuff;
+
+}
+
+h3 {
+    column-span: all;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.video {
+    align-items: center;
+}
